@@ -11,3 +11,7 @@ Reflecting on the development process, I found that I didn't encounter many chal
 Potential improvements could include adding input validation functions to reduce code duplication, and incorporating more error handling mechanisms.
 
 Ideas for future extensions could involve integrating a graphical user interface for a more user-friendly experience or incorporating advanced financial forecasting features to provide insights into long-term financial planning.
+
+
+//Link to data flow diagram// (needs registration)
+https://lucid.app/lucidchart/66555349-a35b-4e1d-a8a2-27e8bc058b21/edit?viewport_loc=57%2C-1579%2C1829%2C857%2C0_0&invitationId=inv_6809f02f-ec3b-4b09-9129-f9e6f0d96f16
