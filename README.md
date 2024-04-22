@@ -6,8 +6,8 @@ This code prompts the user to input their monthly income, the number of monthly 
 
 <b>Analysis</b>
 
-Challenges encountered during development might include handling invalid input gracefully and ensuring the accuracy of calculations. Lessons learned could involve the importance of input validation and error handling to enhance user experience.
+Reflecting on the development process, I found that I didn't encounter many challenges overall, except for some difficulty in implementing certain functions within the code.
 
-Potential improvements could include implementing input validation functions to reduce code duplication, and incorporating more error handling mechanisms.
+Potential improvements could include adding input validation functions to reduce code duplication, and incorporating more error handling mechanisms.
 
 Ideas for future extensions could involve integrating a graphical user interface for a more user-friendly experience or incorporating advanced financial forecasting features to provide insights into long-term financial planning.
